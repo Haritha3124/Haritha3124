@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="center">"Greetings, Coding Maestro 👋"</h2>
+<h2 align="center">"Greetings, Coding maestro ✌️"</h2>
 
 ###
 
